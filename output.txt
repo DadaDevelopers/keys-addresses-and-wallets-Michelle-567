@@ -1,0 +1,34 @@
+# Creating wallet
+
+# Legacy Address
+n27DQza24MJhTKRm1Q4QiAxa6UMwhREDdW
+
+# Bech32 Address
+bcrt1qlg0svgvnr6qhdn5dnkuzcdgsg3gtzmcp6lqqdp
+
+# Bech32m Address
+bcrt1p422l03cel8ua22vycvgwmrx4kwl2j9ka7at7fmtwx7wqw0fyvjgqez0pq6
+
+# Hardened vs Non-Hardened
+Hardened keys: cannot derive child private keys from public key, more secure.
+Non-Hardened keys: child keys derivable from public key, useful for watch-only wallets.
+
+# Deterministic vs Non-Deterministic
+Deterministic wallets: generate addresses from single seed, easier backup and recovery.
+Non-Deterministic wallets: generate addresses randomly, backup each key individually.
+# Legacy Address
+mmEQsatycJDgv1yjcdADvsU9oYkWNq8M3Q
+
+# Bech32 Address
+bcrt1qsj7jgf6zauauyw9gs8k9t2mljjmp29y5qufxha
+
+# Bech32m Address
+bcrt1pe0zvdsx03fzaf8k26guakkgyfk0j9hs7unt54wxznyqpg5xcf5xsgqpzeu
+
+# Hardened vs Non-Hardened
+Hardened keys: cannot derive child private keys from public key, more secure.
+Non-Hardened keys: child keys derivable from public key, useful for watch-only wallets.
+
+# Deterministic vs Non-Deterministic
+Deterministic wallets: generate addresses from single seed, easier backup and recovery.
+Non-Deterministic wallets: generate addresses randomly, backup each key individually.
